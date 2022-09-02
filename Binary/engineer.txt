@@ -1,0 +1,10 @@
+IBM 7918 Ayse Durlanik 7600 computer 
+Gaeta 2342 Pehmet Guzel 8300 Civil
+Lafarge 3242 Ahmet Bilir 4700 Chemical
+Intel 3255 serhan Atraca 9200 Electrical
+Bilkent 3452 Fatma Guler 2500 Computer
+Public 1020 Aysen Durraz 1500 Pecianical
+Havelsan 2454 rule Dilbaz 2800 Electrical
+Tai 3473 Fethi Oktam 3600 computer
+Nurol 4973 Ayhan Ak 4100 Civil
+Pfizer 3000 Fusun Ot 2650 Chemical 

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CirclesGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CirclesGUI_jar</output-path>
+    <root id="archive" name="CirclesGUI.jar">
+      <element id="module-output" name="CirclesGUI" />
+    </root>
+  </artifact>
+</component>

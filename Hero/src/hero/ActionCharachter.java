@@ -1,0 +1,17 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package hero;
+
+/**
+ *
+ * @author E.B.A.X. Company
+ */
+public class ActionCharachter implements CanFight{
+    @Override
+    public void fight(){
+        System.out.println("wAction characters always fight in the movies");
+    }           
+    
+}
